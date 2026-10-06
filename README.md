@@ -462,8 +462,9 @@ These messages are routed to the general chat pipeline rather than the spreadshe
 ---
 
 # 📸 Demo
+🎥 [Watch the project demo on LinkedIn](https://lnkd.in/p/e7b5UFQq)
 
-[▶ Watch the Project Demo](https://drive.google.com/file/d/1p4PrGFsfP8pbu9KsaGZSmjc87KKsmYLb/view?usp=sharing)
+Alternative link: [Google Drive](https://drive.google.com/file/d/1p4PrGFsfP8pbu9KsaGZSmjc87KKsmYLb/view?usp=sharing)
 
 ---
 
